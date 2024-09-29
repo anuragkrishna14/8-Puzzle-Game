@@ -1,6 +1,6 @@
 # 8-Puzzle Game
 
-The 8-Puzzle Game is a classic sliding puzzle that consists of a frame of numbered square tiles in random order with one tile missing. The objective is to place the tiles in order by making sliding moves that use the empty space.
+The 8-Puzzle Game is a classic sliding puzzle that consists of a frame of numbered square tiles in random order with one tile missing. The objective is to place the tiles in order by making sliding moves that use the empty space. The project includes an executable file for easy use.
 
 ## Features
 
